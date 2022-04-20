@@ -2309,7 +2309,9 @@ input, select, textarea {
 		}
 
 /* Image */
-
+.succupedia {
+	width: 35%;
+	
 	.image {
 		border-radius: 4px;
 		border: 0;
